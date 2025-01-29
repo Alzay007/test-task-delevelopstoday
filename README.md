@@ -1,6 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This project is a web application built with Next.js that allows users to view vehicle models based on the selected make and year. The application fetches data from an external API to retrieve a list of car makes and their available models for specific years. Users can select a make and year to see the corresponding models, with options for navigation and error handling in case of missing or incorrect data. The project also includes dynamic routing, server-side data fetching, and page rendering optimizations.
 
 
+## Filter page where you can choose the make and year:
+![Screenshot_1](https://github.com/user-attachments/assets/79da5394-dd1f-45eb-bc62-4e47f213f3b5)
+
+## Result page:
+![Screenshot_2](https://github.com/user-attachments/assets/5c2bd3ba-524e-4019-b9ee-58fb404b966b)
 
 ## Technologies used:
 
